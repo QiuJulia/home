@@ -1,0 +1,52 @@
+.title
+{
+	background-color: lightblue; 
+}
+/* Add black outline for the table */
+#table1
+	table, th, td
+{ 
+		border: 1px solid black;
+}
+body
+{
+	font-family: Georgia, calabri, serif;
+}
+.indent
+{
+	text-indent: 50px;
+}
+.list
+{
+	display: block;
+}
+.row
+{
+	display: block;
+}
+.column
+{
+	display: inline-block;
+	width: 400px; /*Do not go above 480px, to fit mobile users*/ 
+	vertical-align: top;
+	text-align: center;
+}
+.captions
+{
+	font-size: 17.5px;
+	color: #3385BC;
+}
+.myth
+{
+	font-size: 17.5px;
+	color: #58BCFE
+}
+a
+{
+	color: blue;
+}
+.myth2
+{
+	font-size:15px;
+	color: black;
+}
