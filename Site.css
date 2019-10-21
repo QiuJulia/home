@@ -2,6 +2,19 @@
 {
 	background-color: lightblue; 
 }
+.title2
+{
+	background-color: lightgreen;
+}
+#box
+{
+	border-style: solid;
+}
+.story
+{
+	font-size: 20px;
+	color: #647AC4
+}
 /* Add black outline for the table */
 #table1
 	table, th, td
@@ -11,6 +24,7 @@
 body
 {
 	font-family: Georgia, calabri, serif;
+	margin: 15px;
 }
 .indent
 {
@@ -47,6 +61,14 @@ a
 }
 .myth2
 {
-	font-size:15px;
+	font-size: 15px;
 	color: black;
+}
+#bold
+{
+	text-decoration: underline;
+}
+#poem
+{
+	max-width: 170px;
 }
